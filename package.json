@@ -1,0 +1,14 @@
+{
+  "name": "rag-js",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node api.js",
+    "dev": "node --watch api.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "ollama": "^0.5.0",
+    "sql.js": "^1.14.1"
+  }
+}
