@@ -2,6 +2,8 @@
 
 JavaScript port of the RAG (Retrieval-Augmented Generation) assignment using [Ollama](https://ollama.com/).
 
+![App Screenshot](app-screenshot.png)
+
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/) 18+
